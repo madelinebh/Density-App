@@ -2,7 +2,7 @@ var boat;
 
 function setup() {
   createCanvas(400, 400);
-  boat = new boat(25, 300)
+  boat = new Boat(25, 300)
 }
 
 function draw() {

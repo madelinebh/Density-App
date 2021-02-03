@@ -1,6 +1,6 @@
 
 //Creating boat object
-class boat {
+class Boat {
     constructor(x, y) {
         this.x = x;
         this.y = y; 
