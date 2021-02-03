@@ -1,3 +1,4 @@
+
 //Creating boat object
 class boat {
     constructor(x, y) {
@@ -30,4 +31,5 @@ class boat {
                 this.x = - this.w;
             }
     } // end of sailAway function
+
 } // end of boat function
