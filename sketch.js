@@ -7,6 +7,7 @@ function setup() {
 
 function draw() {
   background(220);
+  ocean();
   boat.show()
   if (keyIsPressed === true) {
       boat.sailAway();
